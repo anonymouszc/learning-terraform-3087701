@@ -1,3 +1,3 @@
-module "dev" {
+module "samtest-dev" {
   source = "../modules/samtest"
 }

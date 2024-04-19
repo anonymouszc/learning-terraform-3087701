@@ -1,4 +1,4 @@
-module "dev" {
+module "samtest-qa" {
   source = "../modules/samtest"
 
   environment = {
