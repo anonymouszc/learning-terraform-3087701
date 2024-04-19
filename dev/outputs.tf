@@ -1,3 +1,3 @@
 output "environment_url" {
-  value = module.dev.lb_dns_name
+  value = module.samtest-dev.lb_dns_name
 }
